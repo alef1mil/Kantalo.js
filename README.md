@@ -1,6 +1,7 @@
 # Kantalo.js
 
 ![npm](https://img.shields.io/npm/v/kantalo.js)
+![npm](https://img.shields.io/npm/dm/kantalo.js)
 
 ## How to use:
 
