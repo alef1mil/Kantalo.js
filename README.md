@@ -16,7 +16,7 @@ After you have done this create a file called **Index.js** (or whatever name) an
 ```js
 import Client from "kantalo.js"
 
-const Bot = new Client("Bot Tutorial")
+const Bot = new Client("Bot Tutorial") // Here you put the name of your bot
 
 Bot.SendMessage("hello")
 
