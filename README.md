@@ -10,4 +10,4 @@ First install our library on npm
 npm i kantalo.js
 ```
 
-After you have done this create a file called ***Index.js* (or whatever name) and then put this code
+After you have done this create a file called **Index.js** (or whatever name) and then put this code
