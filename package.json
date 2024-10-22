@@ -1,0 +1,23 @@
+{
+  "name": "kantalo.js",
+  "version": "1.0.4",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alef1mil/Kantalo.js.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "alef1mil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alef1mil/Kantalo.js/issues"
+  },
+  "homepage": "https://github.com/alef1mil/Kantalo.js#readme",
+  "description": ""
+}
