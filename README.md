@@ -20,5 +20,5 @@ const Bot = new Client("Bot Tutorial")
 
 Bot.SendMessage("hello")
 
-Bot.run("56-66") // your token
+Bot.run() // your token
 ```
