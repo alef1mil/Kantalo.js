@@ -14,4 +14,10 @@ After you have done this create a file called **Index.js** (or whatever name) an
 
 ```js
 import Client from "kantalo.js"
+
+Bot = new Client("Bot Tutorial")
+
+Bot.SendMessage("hello")
+
+Bot.run() // your token
 ```
